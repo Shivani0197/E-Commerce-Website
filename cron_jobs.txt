@@ -1,0 +1,3 @@
+0 0 * * * php /var/www/html/export_sales.php
+0 1 * * * python3 /var/www/html/train_prophet.py
+0 2 * * * php /var/www/html/update_prices.php
