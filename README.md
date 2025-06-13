@@ -44,3 +44,35 @@ Bootstrap / Tailwind CSS – Responsive and fast styling
 Axios / Fetch API – Data fetching from backend
 
 Git & GitHub – Version control and collaboration
+🚀 Getting Started
+To run the project locally:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/ecommerce-website.git
+cd ecommerce-website
+npm install
+npm start
+📂 Folder Structure
+bash
+Copy
+Edit
+ecommerce-website/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── assets/
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md
+🙌 Contributions
+Feel free to fork the repo and submit pull requests. All contributions to improve the site or add features are welcome!
+
+📬 Contact
+For questions or collaboration:
+📧 Email: jhashivani681@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/shivanijha6204/
